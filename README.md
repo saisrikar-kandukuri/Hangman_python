@@ -47,4 +47,4 @@ python hangman_python.py
 
 ## Author
 
-Srikar
+Saisrikar
